@@ -1,0 +1,163 @@
+<html>
+	<head></head>
+	<body>
+		<table width="100%">
+			<tr>
+				<td width="12.5%" bgcolor="gray" height="100">LOGO</td>
+				<td width="12.5%" bgcolor="gray" height="100">button</td>
+				<td width="12.5%" bgcolor="gray" height="100">button</td>
+				<td width="12.5%" bgcolor="gray" height="100">button</td>
+                <td width="12.5%" bgcolor="gray" height="100">button</td>
+				<td width="12.5%" bgcolor="gray" height="100">button</td>
+				<td width="12.5%" bgcolor="gray" height="100">button</td>
+				<td width="12.5%" bgcolor="gray" height="100">button</td>
+			</tr>
+		</table>
+
+<table width="100%">
+	<tr>
+<td width="10%" bgcolor="gray" height="350">Button</td>		
+<td width="80%" bgcolor="gray" height="350">Slider</td>	
+<td width="10%" bgcolor="gray" height="350">Button</td>
+
+
+	</tr>
+</table>
+
+<table width="100%">
+	<tr>
+		<td width="33.3%" bgcolor="gray" height="200">text</td>
+        <td width="33.3%" bgcolor="gray" height="200">text</td>
+        <td width="33.3%" bgcolor="gray" height="200">text</td>
+
+
+
+
+	</tr>
+</table>
+<table width="100%">
+	<tr>
+		<td width="33.3%" bgcolor="gray" height="30">learn more</td>
+        <td width="33.3%" bgcolor="gray" height="30">learn more</td>
+        <td width="33.3%" bgcolor="gray" height="30">learn more</td>
+
+
+
+
+	</tr>
+</table>
+<table width="100%">
+	<tr>
+		<td width="100%" bgcolor="gray" height="40">recent work</td>
+        
+
+
+
+
+	</tr>
+</table>
+<table width="100%">
+	<tr>
+				<td width="8%" bgcolor="gray" height="200">button</td>
+				<td width="20.6%" bgcolor="gray" height="200">button picture</td>
+                <td width="20.6%" bgcolor="gray" height="200">button picture</td>
+				<td width="20.6%" bgcolor="gray" height="200">button picture</td>
+				<td width="20.6%" bgcolor="gray" height="200">button picture</td>
+				<td width="8%" bgcolor="gray" height="200">button</td>
+
+
+
+	</tr>
+</table>
+
+<table width="100%">
+	<tr>
+		<td width="50%" bgcolor="gray" height="40">why</td>
+<td width="50%" bgcolor="gray" height="40">what</td>
+
+	</tr>
+</table>
+<table width="100%">
+	<tr>
+		<td width="50%" bgcolor="gray" height="250">text</td>
+
+<td width="50%" bgcolor="gray" height="250">
+					<table width="100%">
+						<tr>
+							<td width="100%" height="150" bgcolor="grey">Comment</td>
+						</tr>
+						<tr>
+							<td width="100%" height="50" bgcolor="darkgrey">anonim</td>
+						</tr>
+					</table>
+				</td>
+
+
+		<table width="100%">
+			<tr>
+				<td width="25%" bgcolor="gray" height="50">Logo</td>
+				<td width="25%" bgcolor="gray" height="50">text</td>
+				<td width="25%" bgcolor="gray" height="50">text</td>
+				<td width="25%" bgcolor="gray" height="50">text</td>
+			</tr>
+			<tr>
+				<td width="25%" bgcolor="gray" height="250">text</td>
+				<td width="25%" bgcolor="gray" height="250">
+					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Enim doloremque, quae minus dolores voluptatem sed, harum explicabo repellat natus distinctio similique voluptatum facere, aperiam excepturi necessitatibus at blanditiis cupiditate quas.</p>
+				</td>
+				<td width="25%" bgcolor="gray" height="250">
+					<table width="100%">
+						<tr>
+							<td width="100%" height="150" bgcolor="red">Bla bla</td>
+						</tr>
+						<tr>
+							<td width="100%" height="100" bgcolor="blue">Bla bla bla</td>
+						</tr>
+					</table>
+				</td>
+				<td width="25%" bgcolor="gray" height="250">
+					<table width="100%">
+						<tr>
+							<td width="33.33%" bgcolor="darkgray" height="125">space</td>
+							<td width="33.33%" bgcolor="darkgray" height="125">space</td>
+							<td width="33.33%" bgcolor="darkgray" height="125">space</td>
+						</tr>
+						<tr>
+							<td width="33.33%" bgcolor="darkgray" height="125">space</td>
+							<td width="33.33%" bgcolor="darkgray" height="125">space</td>
+							<td width="33.33%" bgcolor="darkgray" height="125">space</td>
+						</tr>
+					</table>
+				</td>
+			</tr>
+		</table>
+
+
+<table width="100%">
+	<tr>
+
+		<td width="10%" bgcolor="gray" height="20">text</td>
+<td width="10%" bgcolor="gray" height="20">text</td>
+<td width="10%" bgcolor="gray" height="20">text</td>
+<td width="10%" bgcolor="gray" height="20">text</td>
+
+					
+				</td>
+				<td width="25%" bgcolor="gray" height="20">
+					<table width="100%">
+						<tr>
+							<td width="25%" bgcolor="darkgray" height="25">button</td>
+							<td width="25%" bgcolor="darkgray" height="25">button</td>
+							<td width="25%" bgcolor="darkgray" height="25">button</td>
+							<td width="25%" bgcolor="darkgray" height="25">button</td>
+						</tr>
+						
+					</table>
+				</td>
+			</tr>
+		</table>
+	</tr>
+</table>
+
+	</body>
+</html>
